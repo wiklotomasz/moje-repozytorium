@@ -1,0 +1,23 @@
+{
+  "name": "github-cwiczenia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiklotomasz/moje-repozytorium.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wiklotomasz/moje-repozytorium/issues"
+  },
+  "homepage": "https://github.com/wiklotomasz/moje-repozytorium#readme",
+  "devDependencies": {
+    "browser-sync": "^2.23.6"
+  }
+}
